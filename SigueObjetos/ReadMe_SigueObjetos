@@ -1,0 +1,12 @@
+🐟 Sigue Objetos
+
+El módulo Sigue Objetos forma parte del proyecto Tunabot
+ y tiene como objetivo reproducir el comportamiento de los bancos de atunes, donde cada robot es capaz de detectar, seguir y coordinar su movimiento con otros para simular dinámicas colectivas en el agua.
+
+🎯 Objetivo
+
+Desarrollar un sistema que permita a los robots:
+
+Detectar la posición de un objeto líder (otro robot o una referencia).
+
+Ajustar su trayectoria para mantener la formación.
