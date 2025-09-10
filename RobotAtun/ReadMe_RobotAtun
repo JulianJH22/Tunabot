@@ -1,0 +1,12 @@
+🐟 Robot Atún
+
+El Robot Atún es el núcleo del proyecto Tunabot
+. Se trata de un prototipo bioinspirado diseñado para moverse en el agua imitando el nado ondulatorio de un atún real. Este módulo combina mecánica, electrónica y programación para lograr un desplazamiento eficiente y natural.
+
+🎯 Objetivo
+
+Construir un robot acuático que:
+
+Reproduzca el movimiento oscilatorio característico del atún.
+
+Permita estudiar la eficiencia de este tipo de locomoción.
